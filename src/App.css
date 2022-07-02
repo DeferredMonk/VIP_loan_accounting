@@ -1,0 +1,44 @@
+th, td{
+  border-left: 2px solid rgba(0, 0, 0, 0.137);
+  border-right:  2px solid rgba(0, 0, 0, 0.137);;
+  width: 200px;
+  padding: 5px 15px 5px 10px;
+  text-align: left;
+}
+input {
+  width: 100%;
+  border-right: 0px;
+  border-bottom: 0px;
+  border: solid 2px rgba(0, 0, 0, 0.137);
+  padding: 5px 0px 5px 5px;
+  border-radius: 10px;
+}
+button {
+  padding: 10px 20px;
+  border: 1px solid rgba(0, 0, 0, 0.137);
+  width: 100%;
+  border-radius: 10px;
+}
+.nappi {
+  text-align: center;
+}
+th, .syotteet td{
+  border-top: 2px solid rgba(0, 0, 0, 0.137);
+  border-bottom: 2px solid rgba(0, 0, 0, 0.137);
+}
+.velkasi {
+  text-align: center;
+}
+main {
+  margin: 0px 20% 0px 20%;
+  display: flex;
+  justify-content: space-between;
+}
+.otsikko {
+  text-align: center;
+  border-bottom: 0;
+  font-size: x-large;
+}h1 {
+  text-align: center;
+  margin-top: 50px;
+}
